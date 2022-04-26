@@ -1,0 +1,10 @@
+0.7
+2020.2
+Oct 19 2021
+03:16:22
+E:/MTP2/neuralNetwork-master/Tut-1/include.v,1650637032,verilog,,,,,,,,,,,,
+E:/MTP2/neuron/neuron.sim/sim_1/behav/xsim/glbl.v,1634335545,verilog,,,,glbl,,,,,,,,
+E:/MTP2/neuron/neuron.srcs/sources_1/imports/Tut-1/Sig_ROM.v,1591856353,verilog,,E:/MTP2/neuron/neuron.srcs/sources_1/imports/Tut-1/Weight_Memory.v,,Sig_ROM,,,../../../../../neuralNetwork-master/Tut-1,,,,,
+E:/MTP2/neuron/neuron.srcs/sources_1/imports/Tut-1/Weight_Memory.v,1591856353,verilog,,E:/MTP2/neuron/neuron.srcs/sources_1/imports/Tut-1/relu.v,E:/MTP2/neuralNetwork-master/Tut-1/include.v,Weight_Memory,,,../../../../../neuralNetwork-master/Tut-1,,,,,
+E:/MTP2/neuron/neuron.srcs/sources_1/imports/Tut-1/relu.v,1650631358,verilog,,E:/MTP2/neuron/neuron.srcs/sources_1/new/neuron.v,,ReLU,,,../../../../../neuralNetwork-master/Tut-1,,,,,
+E:/MTP2/neuron/neuron.srcs/sources_1/new/neuron.v,1650632611,verilog,,,E:/MTP2/neuralNetwork-master/Tut-1/include.v,neuron,,,../../../../../neuralNetwork-master/Tut-1,,,,,

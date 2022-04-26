@@ -1,0 +1,13 @@
++==============+===============+================+
+| Launch Clock | Capture Clock | Pin            |
++==============+===============+================+
+| clock        | clock         | comboAdd/C[7]  |
+| clock        | clock         | comboAdd/C[16] |
+| clock        | clock         | comboAdd/C[15] |
+| clock        | clock         | comboAdd/C[5]  |
+| clock        | clock         | comboAdd/C[11] |
+| clock        | clock         | comboAdd/C[14] |
+| clock        | clock         | comboAdd/C[2]  |
+| clock        | clock         | comboAdd/C[6]  |
+| clock        | clock         | comboAdd/C[3]  |
++--------------+---------------+----------------+

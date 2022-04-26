@@ -1,0 +1,13 @@
+#-----------------------------------------------------------
+# Vivado v2021.2 (64-bit)
+# SW Build 3367213 on Tue Oct 19 02:48:09 MDT 2021
+# IP Build 3369179 on Thu Oct 21 08:25:16 MDT 2021
+# Start of session at: Sun Apr 24 17:24:20 2022
+# Process ID: 25220
+# Current directory: E:/MTP2/neuron/neuron.runs/impl_1
+# Command line: vivado.exe -log neuron.vdi -applog -product Vivado -messageDb vivado.pb -mode batch -source neuron.tcl -notrace
+# Log file: E:/MTP2/neuron/neuron.runs/impl_1/neuron.vdi
+# Journal file: E:/MTP2/neuron/neuron.runs/impl_1\vivado.jou
+# Running On: DESKTOP-0EKQBCJ, OS: Windows, CPU Frequency: 3693 MHz, CPU Physical cores: 12, Host memory: 17102 MB
+#-----------------------------------------------------------
+source neuron.tcl -notrace

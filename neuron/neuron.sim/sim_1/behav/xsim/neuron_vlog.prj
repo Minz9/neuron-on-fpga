@@ -1,0 +1,12 @@
+# compile verilog/system verilog design source files
+verilog xil_defaultlib  --include "../../../../../neuralNetwork-master/Tut-1" \
+"../../../../neuron.srcs/sources_1/imports/Tut-1/Sig_ROM.v" \
+"../../../../neuron.srcs/sources_1/imports/Tut-1/Weight_Memory.v" \
+"../../../../neuron.srcs/sources_1/imports/Tut-1/relu.v" \
+"../../../../neuron.srcs/sources_1/new/neuron.v" \
+
+# compile glbl module
+verilog xil_defaultlib "glbl.v"
+
+# Do not sort compile order
+nosort
